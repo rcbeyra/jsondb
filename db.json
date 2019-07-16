@@ -1,5 +1,5 @@
 {
- {
+ 
         "id" : 77010820,
         "name" : "COUNT PACIFIC ISLANDER",
         "dataTypeName" : "number",
@@ -27,6 +27,6 @@
           "sum" : "6"
         },
         "format" : { }
-      
-  }  
+     
+ 
 }
